@@ -6,16 +6,21 @@
 [![Email](https://img.shields.io/badge/-EMAIL-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:nrpieper@gmail.com)&nbsp;
 
 <div align="center">
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"  alt="Visual Studio" title="Visual Studio"/></code>
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt="Microsoft .Net Framework" title=".Net Framework"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="Microsoft .NET Core" title="Microsoft .NET Core"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Microsoft SQL" title="Microsoft SQL"/></code>
-  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Microsoft Azure DevOps" title="Microsoft Azure DevOps"/></code>
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Microsoft Azure"/></code>
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" title="Lua"/></code>
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"  alt="Photoshop" title="Photoshop"/></code>
   <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  alt="Premier Pro" title="Premier Pro"/></code>
-  
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  alt="C#" title="C#"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Microsoft Azure DevOps" title="Microsoft Azure DevOps"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"  alt="Jira" title="Jira"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"  alt="PowerShell" title="PowerShell"/></code>
+  <code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  alt="Linux" title="Linux"/></code>
+
 </div>
 <br />
 
